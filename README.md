@@ -1,4 +1,4 @@
-<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
+Ji<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
 
 
 ## Features
@@ -74,6 +74,7 @@ python3 bot.py
 ```
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
+• / help - alivas
 * /filter - add manual filters
 * /filters - view filters
 * /connect - connect to PM.
