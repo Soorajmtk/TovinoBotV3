@@ -45,7 +45,7 @@ Ji<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `AUTH_CHANNEL` : Custom Fsub Channel , Redirect Channel Too
 ### Optional Variables
-* `PICS`: Telegraph link of image to show in start message.( Multiple images can't be used )
+* `PICS`: Telegraph link of image to show in start message help information.Hy {username}( Multiple images can't be used )
 * `REDIRECT_TO` : Redirect Var Set value 0 if Redirect not required
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check `info.py` in this code for more variables
