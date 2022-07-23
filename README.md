@@ -1,4 +1,18 @@
-Ji<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
+<p align="center">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+</p>
+<h1 align="center">
+  <b>Eva Maria Bot</b>
+</h1>
+
+
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
 ## Features
@@ -10,28 +24,15 @@ Ji<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
 - [x] Broadcast
 - [x] Index
 - [x] IMDB search
-- [x] Pm File search
 - [x] Inline Search
-- [x] Single Start pic
+- [x] Random pics
 - [x] ids and User info 
 - [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
 - [x] Spelling Check Feature
 - [x] File Store
-- [x] Carbon
-- [x] Sticker id
-- [x] Lyrics , Song
-- [x] TTS
-- [x] Redirect Chat
-- [x] Covid
-- [x] Totally Customisable Bot
+## Variables
 
-## 𝗠𝗨𝗦𝗧 𝗗𝗢
-
-𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙀𝘿𝙄𝙏 𝙇𝙄𝙉𝙆 https://github.com/Soorajmtk/TovinoBotV3𝙄𝙉 [𝙏𝙃𝙄𝙎 𝙇𝙄𝙉𝙀](𝙊 𝙔𝙊𝙐𝙍 𝙍𝙀𝘿𝙄𝙍𝙀𝘾𝙏 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙇𝙄𝙉𝙆 .https://t.me/cinemapranthan320 𝙊𝙏𝙃𝙀𝙍𝙒𝙄𝙎𝙀 𝙔𝙊𝙐 𝘾𝘼𝙉𝙏 𝙏𝘼𝙆𝙀 𝙁𝙄𝙇𝙀𝙎 𝙁𝙍𝙊𝙈 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
- 𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
-33
-
-𝙏𝙃𝙀𝙍𝙀 𝙎𝙊𝙈𝙀 𝘽𝙐𝙂𝙎 , 𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙁𝙊𝙍 𝙉𝙊𝙒. 𝙒𝙄𝙇𝙇 𝘽𝙀 𝙁𝙄𝙓𝙀𝘿 🤧
+Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -39,27 +40,33 @@ Ji<h1>𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). 
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). 
-* `DELETE_TIME` : Autodelete Time in seconds 
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `AUTH_CHANNEL` : Custom Fsub Channel , Redirect Channel Too
 ### Optional Variables
-* `PICS`: Telegraph link of image to show in start message help information.Hy {username}( Multiple images can't be used )
-* `REDIRECT_TO` : Redirect Var Set value 0 if Redirect not required
+* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check `info.py` in this code for more variables
+* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
 
 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Dk-Botz/TovinoBotV3
+git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -68,14 +75,12 @@ python3 bot.py
 </p>
 </details>
 
-𝙁𝙊𝙍𝙆 𝘼𝙉𝘿 𝙂𝙄𝘽 𝙎𝙊𝙈𝙀 𝙎𝙏𝘼𝙍𝙎 😁😊
 
 ## Commands
 ```
 • /logs - to get the rescent errors
 • /stats - to get status of files in db.
-• / help - alivas
-* /filter - add manual filters
+* /filter - add manual filtersfilters
 * /filters - view filters
 * /connect - connect to PM.
 * /disconnect - disconnect from PM
@@ -93,10 +98,6 @@ python3 bot.py
 • /disable  -  do disable a chat.
 * /enable - re-enable chat.
 • /ban  - to ban a user.
-* /carbon - create carbon
-* /settings - customise chat settings
-* /tts - text to speech
-* /short - link shorter
 • /unban  - to unban a user.
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all Eva Maria users
@@ -104,14 +105,12 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘿𝙆𝙭𝘽𝙊𝙏𝙯](https://telegram.dog/DKxBOTz)
-
-## Bot
-
-[𝙑𝙄𝙅𝘼𝙔 𝘽𝙊𝙏](https://telegram.dog/FILTERxAUTOBOT)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
-* [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
+* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -121,17 +120,17 @@ python3 bot.py
 
 ### Note
 
-[𝘊𝘳𝘦𝘢𝘵𝘰𝘳](https://telegram.dog/DVL_SAM)
+[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs. 𝘛𝘩𝘦𝘴𝘦 𝘢𝘳𝘦 𝘭𝘪𝘯𝘦𝘴 𝘧𝘳𝘰𝘮 𝘦𝘷𝘢 𝘥𝘦𝘷𝘴 , 𝘪𝘵𝘴 𝘳𝘪𝘨𝘩𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦 . 
+Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/Dk-Botz/TovinoBotV3/blob/main/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-## 𝙏𝙍𝙄𝘽𝙐𝙏𝙀 𝙏𝙊
+## Inspiration
+This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
-𝘍𝘰𝘳 𝘛𝘩𝘰𝘴𝘦 𝘨𝘶𝘺𝘴 𝘴𝘵𝘰𝘭𝘦 𝘤𝘰𝘥𝘦𝘴 🥲🤧
-
+[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
