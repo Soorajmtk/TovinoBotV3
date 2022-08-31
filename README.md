@@ -193,7 +193,7 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘿𝙆𝙭𝘽𝙊𝙏𝙯]( https://telegram.dog/dk_botx )
+[𝘿𝙆𝙭𝘽𝙊𝙏𝙯]( https://t.me/DKBOTxCHATS )
 
 ## Bot
 
