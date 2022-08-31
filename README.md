@@ -193,11 +193,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[𝘿𝙆𝙭𝘽𝙊𝙏𝙯](https://t.me/dkbotxchats )
+[𝘿𝙆𝙭𝘽𝙊𝙏𝙯](https://telegram.dog/dk_botx)
 
 ## Bot
 
-[𝗞𝗨𝗥𝗨𝗣 𝗕𝗼𝘁](https://t.me/Kurup_autofilter_V3_bot )
+[𝗞𝗨𝗥𝗨𝗣𝗕𝗼𝘁](https://telegram.dog/kurup_autofilter_v3_bot)
 
 ## Credits 
 * [𝘉𝘈𝘚𝘌 𝘙𝘌𝘗𝘖 𝘜𝘚𝘌𝘋](https://github.com/EvamariaTG/EvaMaria)
